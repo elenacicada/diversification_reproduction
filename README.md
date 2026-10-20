@@ -14,13 +14,18 @@ Selfing-fertilization is sometimes described as an evolutionary "dead end." We a
 
 This project is ongoing, and files and description may be updated. 
 
-#### Files and variable
+#### Files and variables
 
-**Description:** This repository contains the following R scripts. 
+**Description:** This repository contains the following R scripts: 
 
 * "Workflow4HiSSE.R" - an annotated R script which was used to run HiSSE-type models for binary mating system data (i.e., selfing or non-selfing).
 * Workflow4MultiState.R - an annotated R script which was used to run HiSSE-type models for multi-state sexual system data (i.e., a three-category sexual system classification of dioecy, monoecy, or hermaphroditism). 
 * BiSSE4SexSyst.R - an annotated R script which was used to run HiSSE-type models for binary-state sexual system data (i.e., family cases in which only two of three possibly sexual systems trait states were present).
+
+**Supplemental Figures:**
+
+* "Cucurbitaceae.svg" contains a tip-labeled phylogeny for Cucurbitaceae as described in the preprint.
+* "Lamiaceae.svg" contains a tip-labeled phylogeny for Lamiaceae as described in the preprint. 
 
 ### Code/software
 
