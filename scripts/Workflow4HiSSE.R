@@ -1,7 +1,7 @@
 #Workflow for BiSSE + HiSSE only 
 
 #set working directory to location of download 
-setwd("~/THS_Scripts") 
+setwd("~/scripts") 
 
 library(hisse)
 library(phytools)
