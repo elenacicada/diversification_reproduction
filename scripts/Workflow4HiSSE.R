@@ -8,9 +8,6 @@ library(phytools)
 library(TreeTools)
 library(dplyr)
 
-#remove all objects except those that take a long time to create
-rm(list=ls()[! ls() %in% c("res.mdh.all","mono_dio_herm")]) 
-
 #calling in "outersect" function for later - see: https://tonybreyal.wordpress.com/2011/11/29/outersect-the-opposite-of-rs-intersect-function/
 #this is basically just the opposite of the 'intersect' function 
 outersect <- function(x, y, ...) {
