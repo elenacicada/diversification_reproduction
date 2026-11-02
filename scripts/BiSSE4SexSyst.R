@@ -29,6 +29,7 @@ outersect <- function(x, y, ...) {
 mono_dio_herm <- read_excel("mono.dio.herm.xlsx")
 
 #reading in reference for correcting names from World Flora Online 
+#from https://www.sciencedirect.com/science/article/pii/S2468265922000944 
 dat1 <- read_excel("Plants_WFO_database_part1.xlsx")
 dat2 <- read_excel("Plants_WFO_database_part2.xlsx")
 dat3 <- read_excel("Plants_WFO_database_part3.xlsx")
